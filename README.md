@@ -65,13 +65,13 @@ The stacked area chart compares the contribution of all sectors over time and sh
 ## Project Visuals
 
 ### Electricity Trend
-![Electricity](images/electricity.png)
+![Electricity](images/Electricity.png)
 
 ### Heat Trend
-![Heat](images/heat.png)
+![Heat](images/Heat.png)
 
 ### Transportation Trend
-![Transportation](images/transport.png)
+![Transportation](images/Transport.png)
 
 ### Combined Emissions
 ![Combined](images/combined.png)
