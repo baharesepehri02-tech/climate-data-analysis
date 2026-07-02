@@ -44,7 +44,16 @@ The dataset contains emission values for different sectors and was analyzed usin
 
 ## Results
 
-The analysis highlights differences in emissions across sectors and demonstrates how Python can be used to transform raw environmental data into meaningful insights through data cleaning, analysis, and visualization.
+The analysis explores greenhouse gas emissions across different sectors and demonstrates how Python and Pandas  can be  used for data cleaning, exploratory data analysis, and visualization.
+### Key Findings
+- Transport produced the highest emissions.
+- Electricity emissions remained relatively stable.
+- Python and Pandas enabled efficient data cleaning and analysis.
+
+## Future Improvement
+- Build an interactive Power BI dashboard.
+- Expand the dataset with additional years.
+- Apply Predictive analytics using machine learning.
 
 ---
 
