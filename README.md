@@ -62,7 +62,19 @@ Transportation emissions rose continuously throughout the dataset.
 
 ### Combined Sector Comparison
 The stacked area chart compares the contribution of all sectors over time and shows that electricity contributed the largest share.
+## Project Visuals
 
+### Electricity Trend
+![Electricity](images/electricity.png)
+
+### Heat Trend
+![Heat](images/heat.png)
+
+### Transportation Trend
+![Transportation](images/transport.png)
+
+### Combined Emissions
+![Combined](images/combined.png)
 ## Future Improvement
 - Build an interactive Power BI dashboard.
 - Expand the dataset with additional years.
