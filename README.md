@@ -65,16 +65,16 @@ The stacked area chart compares the contribution of all sectors over time and sh
 ## Project Visuals
 
 ### Electricity Trend
-![Electricity](Images/Electricity.png)
+![Electricity](Image/Electricity.png)
 
 ### Heat Trend
-![Heat](Images/Heat.png)
+![Heat](Image/Heat.png)
 
 ### Transportation Trend
-![Transportation](Images/Transport.png)
+![Transportation](Image/Transport.png)
 
 ### Combined Emissions
-![Combined](Images/combined.png)
+![Combined](Image/combined.png)
 ## Future Improvement
 - Build an interactive Power BI dashboard.
 - Expand the dataset with additional years.
